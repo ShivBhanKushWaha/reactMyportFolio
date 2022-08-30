@@ -1,0 +1,13 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 26px;
+    color: rgb(59, 6, 109);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

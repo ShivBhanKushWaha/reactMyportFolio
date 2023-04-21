@@ -7,7 +7,7 @@ export const SocialData = [
     {
         plateform:"Github",
         icon: require("../../assets/icons/github.png"),
-        link:"https://github.com/vishnabh"
+        link:"https://github.com/ShivBhanKushWaha"
     },
     {
         plateform:"LinkedIn",

@@ -1,26 +1,25 @@
 export const ProjectData = [
     {
         id:1,
-        title:"Random Project 2",
-        about:"This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying by my portfolio . Make sure you like and comments if you have any suggestion for me.",
-        tags:["ReactJs","NodeJs","DataBase","HealthCare","MernStack"],
-        demo:"www.example.com",
-        github:"www.example.com",
-        image:"https://media.istockphoto.com/photos/healthcare-business-graph-data-and-growth-insurance-healthcare-doctor-picture-id1327568875?b=1&k=20&m=1327568875&s=170667a&w=0&h=coOGg4r5WJkKAtMTOoqudH_JZpdZx0u3E0KJN6mL1uM="
+        title:"Chat GPT Project",
+        about:"ChatGPT is a natural language processing tool driven by AI technology that allows you to have human-like conversations and much more with the chatbot. The language model can answer questions and assist you with tasks, such as composing emails, essays, and code.This project is live on the given above demo.",
+        tags:["ReactJs","SocketIO","AI","HealthCare","MernStack"],
+        demo:"https://sk-chat-gpt-4-0.vercel.app/",
+        github:"https://github.com/ShivBhanKushWaha/Sk_ChatGPT_4.0",
+        image:"https://www.fingent.com/wp-content/uploads/fingent-5-1024x555.jpg"
     },
     {
         id:1,
-        title:"Random project 2",
-        about:"This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying by my portfolio . Make sure you like and comments if you have any suggestion for me.",
+        title:"Dynamic Web Project",
+        about:"Dynamic websites are those websites that changes the content or layout with every request to the webserver. These websites have the capability of producing different content for different visitors from the same source code file. There are two kinds of dynamic web pages i.e. client side scripting and server side scripting. The client-side web pages changes according to your activity on the web page. On the server-side, web pages are changed whenever a web page is loaded.This project is not host.",
         tags:[
             "NodeJs",
-            "MeanStack",
-            "MySql",
-            "Php",
+            "MernStack",
+            "React",
+            "Express",
             "BootStrap",
         ],
-        demo:"www.example.com",
-        github:"www.example.com",
-        image:"https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png" 
+        github:"https://github.com/ShivBhanKushWaha/complete-dynamic-website",
+        image:"https://dynamic-project.eu/wp-content/uploads/2018/11/Logo-Dynamic.jpg" 
     },
 ];

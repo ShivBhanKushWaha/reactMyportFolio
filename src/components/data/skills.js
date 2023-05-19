@@ -32,12 +32,12 @@ export const SkillsData = [
                 icon:<i class="devicon-php-plain colored"></i>    
             },
             {
-                name:"MYSQL",
-                icon:<i class="devicon-mysql-plain-wordmark colored"></i>
-            },
-            {
                 name:"NodeJs",
                 icon:<i class="devicon-nodejs-plain colored"></i> 
+            },
+            {
+                name:"MongoDB",
+                icon:<i class="fi fi-rr-database"></i>
             }
         ]
     },
